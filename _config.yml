@@ -14,7 +14,6 @@
   <header>
     <img src="images/town_hall_logo.gif" alt="townhall" height="80">
     <h2>San Joaquin Valley Town Hall</h2>
-    <!-- Step 17: Enclosing >75<sup>th</sup> in a <span> tag and giving it a class named "shadow" -->
     <h3>Celebrating our <span class="shadow">75<sup>th</sup></span> year</h3>
   </header>
   <main>
